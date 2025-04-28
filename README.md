@@ -1,2 +1,2 @@
-# globalnlp2025.github.io
-This page is about the GlobalNLP2025 workshop at RANLP 2025.
+# GlobalNLP2025 Workshop at RANLP 2025
+<a href="https://globalnlp2025.github.io" target="_blank">globalnlp2025.github.io</a>
